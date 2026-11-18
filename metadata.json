@@ -1,0 +1,6 @@
+{
+  "name": "AegisAR: Disaster Evacuation & Emergency Training Simulator",
+  "description": "3D & AR disaster evacuation simulator featuring realistic physics, campus building layouts, safe green and hazard red paths, peer collaboration drills, character customization, and real-time efficiency tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
